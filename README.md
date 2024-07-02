@@ -5,6 +5,6 @@ curso sofka
 
 jose mauricio sosa lopez
 
-
+![imagen del log ](log .png)
 
 
